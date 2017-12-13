@@ -3,3 +3,5 @@ My first line in project
 Paris is the capital of France
 =======
 >>>>>>> parent of fba7406... CapitalS added
+Moscow
+London
